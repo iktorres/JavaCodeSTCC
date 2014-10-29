@@ -1,4 +1,4 @@
 JavaCodeSTCC
 ============
 
-Code I wrote while attending Springfield Technical Community College
+Code I wrote while attending Springfield Technical Community College.
